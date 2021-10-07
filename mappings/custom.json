@@ -1,0 +1,20 @@
+{
+    "input": {
+      "type1": "1",
+      "name": "",
+      "age": "",
+      "address": {
+        "street": ""
+      },
+      "test": ""
+    },
+    "output": {
+      "type1": "1",
+      "name": "",
+      "age": "",
+      "info": {
+        "street": ""
+      }
+    }
+  }
+  
