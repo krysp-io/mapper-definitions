@@ -2,6 +2,10 @@
 
 ## Public Mapper Definition
 
+Public mapper definitions repository is a collection of most commonly used object models used in transformations and integrations. 
+
+Scenario: An application that stores data in S3 may find a S3 mapping definition that makes it easy to create fields and assign values to them as required by S3 API call.  
+
 Public mapper definitions are standard peer-reviewed repository for community sharing and usage to help keep definitions up-to-date. Intended to be used and maintained by community.
 
 Contributions are welcome! See the [contribution guidelines](contributing.md).
