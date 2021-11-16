@@ -4,10 +4,10 @@ Thank you for wanting to contribute.
 
 To help out, you can:
 
-- get involved in any open [issue](https://github.com/krysp-io/mapper/issues) or [pull request](https://github.com/krysp-io/mapper/pulls)
-- improve the [documentation](https://github.com/krysp-io/mapper/blob/main/README.md)
-- open [new issues](https://github.com/krysp-io/mapper/issues/new) about your ideas for making Stylelint better
-- create or contribute to [public mappers](https://github.com/krysp-io/mapper-definitions).
+- get involved in any open [issue](https://github.com/krysp-io/mapper-definitions/issues) or [pull request](https://github.com/krysp-io/mapper-definitions/pulls)
+- improve the [documentation](https://github.com/krysp-io/mapper-definitions/blob/main/README.md)
+- open [new issues](https://github.com/krysp-io/mapper-definitions/issues/new) about your ideas for making Stylelint better
+- contribute to [mapper node](https://github.com/krysp-io/mapper).
 
 ### Open a pull request
 
