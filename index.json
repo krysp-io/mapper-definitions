@@ -1,4 +1,1 @@
-[
-    { "file": "mappings/custom.json", "label": "Custom definition" }
-  ]
-  
+[{ "file": "mappings/sample.json", "label": "Sample definition" }]

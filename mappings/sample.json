@@ -1,20 +1,19 @@
 {
-    "input": {
-      "userId": "1",
-      "name": "",
-      "age": "",
-      "address": {
-        "street": ""
-      },
-      "test": ""
+  "input": {
+    "userId": "1",
+    "name": "",
+    "age": "",
+    "address": {
+      "street": ""
     },
-    "output": {
-      "userId": "1",
-      "name": "",
-      "age": "",
-      "info": {
-        "street": ""
-      }
+    "test": ""
+  },
+  "output": {
+    "userId": "1",
+    "name": "",
+    "age": "",
+    "info": {
+      "street": ""
     }
   }
-  
+}
