@@ -1,0 +1,20 @@
+{
+    "input": {
+      "userId": "1",
+      "name": "",
+      "age": "",
+      "address": {
+        "street": ""
+      },
+      "test": ""
+    },
+    "output": {
+      "userId": "1",
+      "name": "",
+      "age": "",
+      "info": {
+        "street": ""
+      }
+    }
+  }
+  
