@@ -1,1 +1,14 @@
-[{ "file": "mappings/sample.json", "label": "Sample definition" }]
+{
+    "output": [
+      {
+        "file": "mapping/sampleOutput.json",
+        "label": "Sample output definition"
+      }
+    ],
+    "input": [
+      {
+        "file": "mapping/sampleInput.json",
+        "label": "Sample input definition"
+      }
+    ]
+}
